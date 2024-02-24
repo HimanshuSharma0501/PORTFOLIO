@@ -10,14 +10,16 @@ import TrackVisibility from "react-on-screen";
 export const Projects = () => {
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Chat Application",
+      description: "Chat Application",
       imgUrl: projImg1,
+      projectUrl: "https://chat-app-srq8.onrender.com/",
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Ecommerce Application",
+      description: "Shopping Online",
       imgUrl: projImg2,
+      projectUrl: "https://ecommerce-using-nextjs.vercel.app/",
     },
     {
       title: "Business Startup",
