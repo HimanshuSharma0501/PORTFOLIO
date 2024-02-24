@@ -22,24 +22,10 @@ export const Projects = () => {
       projectUrl: "https://ecommerce-using-nextjs.vercel.app/",
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "To Do App",
+      description: "This is an todo application",
       imgUrl: projImg3,
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg1,
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg2,
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
+      projectUrl: "https://todos-list-black.vercel.app/",
     },
   ];
 
